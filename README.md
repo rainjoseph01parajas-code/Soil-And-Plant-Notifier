@@ -6,7 +6,7 @@ A Java-based monitoring system that helps farmers track soil health and plant gr
 
 ## Features
 - **Soil Moisture Monitoring:** Alerts farmers when soil becomes too dry or over-saturated.
-- **Soil pH & Temperature Tracking:** Ensures optimal nutrient absorption and root health.
+- **Soil pH & soil location:** Ensures optimal nutrient absorption and root health.
 - **Automated Actionable Alerts:** Generates clear recommendations (e.g., irrigation, shade, soil amendment) when readings fall outside healthy thresholds.
 - **Extensible Architecture:** Ready to integrate with IoT hardware (Arduino/Raspberry Pi sensors) or SMS/Email APIs.
 
